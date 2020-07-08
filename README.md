@@ -8,13 +8,17 @@ Maze solver using BFS, DFS, and Dijkstra's algorithm to find shortest paths for 
 2. Run 'java Maze.java [size]'
 3. Compile and run MazeGraph.java to solve a maze. You will need to input
 
-    a) maze#.txt weighted
+    a) 
+    
+        maze#.txt weighted
     
        __or__
        
        maze#.txt unweighted
        
-    b) quit
+    b) 
+    
+        quit
     
        __or__
        
@@ -28,7 +32,9 @@ Maze solver using BFS, DFS, and Dijkstra's algorithm to find shortest paths for 
        
        Dijkstra
        
-    c) startVertexLabel endVertexLabel
+    c) 
+    
+        startVertexLabel endVertexLabel
     
        (e.g. 'ab db' as listed on VertexList, verify solution with maze4.txt file)
     
@@ -53,4 +59,4 @@ Maze solver using BFS, DFS, and Dijkstra's algorithm to find shortest paths for 
  
  bq0 br0 bs0 bt0 bu0 bv1 bw0 
  
- ![](command_screenshot.png)
+ ![](command_screenshot.PNG)
